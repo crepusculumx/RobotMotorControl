@@ -1,0 +1,4 @@
+ComProtocol.c:7:8:parse_msg	32	static
+ComProtocol.c:33:8:parse_packet	216	static
+ComProtocol.c:78:8:dump_msg	32	static
+ComProtocol.c:100:8:dump_packet	216	static

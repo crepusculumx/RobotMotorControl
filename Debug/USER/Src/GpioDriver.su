@@ -1,0 +1,3 @@
+GpioDriver.c:7:6:GpioDriver_init	24	static
+GpioDriver.c:16:6:GpioDriver_set_pin_set	16	static
+GpioDriver.c:21:6:GpioDriver_set_pin_reset	16	static

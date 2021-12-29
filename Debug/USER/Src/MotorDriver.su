@@ -1,0 +1,2 @@
+MotorDriver.c:7:6:MotorDriver_init	24	static
+MotorDriver.c:19:6:MotorDriver_set_status	32	static

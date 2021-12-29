@@ -1,0 +1,4 @@
+PwmDriver.c:7:6:PwmDriver_init	24	static
+PwmDriver.c:24:6:PwmDriver_start	16	static
+PwmDriver.c:28:6:PwmDriver_stop	16	static
+PwmDriver.c:32:6:PwmDriver_set_pwm	32	static

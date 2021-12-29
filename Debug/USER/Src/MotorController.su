@@ -1,0 +1,4 @@
+MotorController.c:7:6:MotorController_init	24	static
+MotorController.c:16:6:MotorController_set_target	24	static
+MotorController.c:24:6:MotorController_control_vel	56	static
+MotorController.c:39:6:MotorController_control	32	static

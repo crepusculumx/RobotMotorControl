@@ -1,0 +1,4 @@
+Deque.c:7:9:Dequeue_pop_back	24	static
+Deque.c:16:6:Dequeue_push_back	16	static
+Deque.c:24:9:Dequeue_pop_front	24	static
+Deque.c:33:6:Dequeue_push_front	16	static

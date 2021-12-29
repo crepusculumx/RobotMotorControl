@@ -1,0 +1,2 @@
+CrcCheck.c:7:10:CRC_crunch	24	static
+CrcCheck.c:86:10:CRC16_check	24	static

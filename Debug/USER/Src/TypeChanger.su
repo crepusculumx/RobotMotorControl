@@ -1,0 +1,6 @@
+TypeChanger.c:7:9:data_int8_to_int16	24	static
+TypeChanger.c:14:9:data_int8_to_int32	24	static
+TypeChanger.c:23:9:data_int8_to_int64	40	static
+TypeChanger.c:32:6:data_int16_to_int8	32	static
+TypeChanger.c:40:6:data_int32_to_int8	32	static
+TypeChanger.c:48:6:data_int64_to_int8	32	static
